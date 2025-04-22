@@ -52,7 +52,7 @@ O objetivo é prever se um passageiro sobreviveu ou não ao desastre, com base e
 ## ▶️ Executar no Colab
 
 Acesse diretamente o notebook final:
-[🔗 Ver no Google Colab]([https://colab.research.google.com/...](https://colab.research.google.com/github/ededias/ml-titanic/blob/main/01_Importacao_Exploracao.ipynb))
+[🔗 Ver no Google Colab]([https://colab.research.google.com/...](https://colab.research.google.com/github/ededias/ml-titanic/blob/main/01_Importacao_Exploracao.ipynb)
 
 ---
 
